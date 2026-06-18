@@ -51,6 +51,7 @@ export default function Login() {
         <p className="form-sub">
           New here? <Link to="/signup">Create an account</Link>
         </p>
+        <p className="form-sub">Codex test branch is working.</p>
 
         <AuthTabs active="login" />
 
